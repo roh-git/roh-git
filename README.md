@@ -6,6 +6,7 @@
 
 ## Selected work
 
+- [주택 수리 요청 프로세스 분석](https://github.com/roh-git/DA_Assignment) — **진행 중** · 수리 요청 1,000건의 업무 구성·처리 흐름 분석. 전처리·기본 집계 진행, 시간 데이터 검증·병목 분석·개선안 도출 예정
 - [서울시 아파트 관리비 비교 및 예측 (MLAPT)](https://github.com/roh-git/mlapt_project) — 서울시 아파트 관리비 비교지표 설계 및 단지별 예측 모델
 - [Olist 고객 세분화 및 개선 우선순위 도출](https://github.com/roh-git/Olist_DATA_ANALYSIS_PROJECT) — 고객 구매가치·경험 차이 분석 기반 고객군 정의 및 실행안 제안
 
